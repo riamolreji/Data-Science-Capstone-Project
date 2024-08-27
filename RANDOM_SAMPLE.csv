@@ -1,0 +1,21 @@
+year,selling_price,km_driven,fuel,seller_type,transmission,owner,brand
+2010,819999,120000,Diesel,Individual,Manual,Second Owner,Toyota
+2010,160000,36000,Petrol,Individual,Manual,First Owner,Maruti
+2016,250000,25000,Petrol,Individual,Manual,First Owner,Renault
+2005,80000,40000,Petrol,Individual,Manual,Second Owner,Maruti
+2017,800000,60000,Diesel,Individual,Manual,First Owner,Mahindra
+2009,140000,100000,Petrol,Individual,Manual,First Owner,Maruti
+2008,120000,100000,Petrol,Individual,Manual,Third Owner & Above,Ford
+2019,675000,15000,Diesel,Individual,Manual,First Owner,Ford
+2013,320000,73000,Diesel,Individual,Manual,First Owner,Hyundai
+2020,300000,20000,Petrol,Individual,Manual,First Owner,Renault
+2010,165000,100000,Petrol,Individual,Manual,Third Owner & Above,Others
+2014,650000,76000,Petrol,Individual,Manual,Second Owner,Others
+2015,225000,80000,Petrol,Individual,Manual,First Owner,Hyundai
+2013,600000,80000,Diesel,Individual,Manual,First Owner,Others
+2011,190000,80000,Diesel,Individual,Manual,Third Owner & Above,Others
+2006,100000,54000,Petrol,Individual,Manual,First Owner,Maruti
+2019,580000,40000,Petrol,Individual,Manual,First Owner,Maruti
+2007,150000,90000,Diesel,Individual,Manual,Third Owner & Above,Mahindra
+2017,520000,10510,Petrol,Dealer or Trustmark Dealer,Automatic,First Owner,Hyundai
+2012,600000,120000,Diesel,Individual,Manual,Third Owner & Above,Maruti
