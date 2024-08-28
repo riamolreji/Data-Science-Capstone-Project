@@ -26,7 +26,7 @@ seller_type = st.selectbox("Seller Type", ["Individual", "Dealer or Trustmark De
 transmission = st.selectbox("Transmission Type", ["Manual", "Automatic"])
 owner = st.selectbox("Owner Type", ["First Owner", "Second Owner", "Third Owner & Above"])
 fuel = st.selectbox("Fuel Type", ["Petrol", "Diesel", "CNG or LPG"])
-year = st.slider("Year of Manufacture", min_value=1995, max_value=2020, value=2010)
+year = st.slider("Year of Manufacture", min_value=1995, max_value=2020, value=2005)
 km_driven = st.slider("Kilometers Driven", min_value=0, max_value=175000, value=10000, step=100)
 
 # Prepare the input data as a DataFrame
